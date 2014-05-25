@@ -1,0 +1,7 @@
+name: ProjectTable
+main: com.swarmmc.imasonite.ProjectTable
+author: iMasonite
+version: 1.0
+permissions:
+   ptfix.ignore:
+     description: Ignore it
